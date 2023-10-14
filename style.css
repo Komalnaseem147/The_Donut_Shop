@@ -33,6 +33,9 @@ h1{
 
 .more{
  left: 45%;
+color:  rgb(190, 150, 113);
+ font-weight: bold;
+}
 }
 
 .container{
